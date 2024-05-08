@@ -5,9 +5,9 @@
         <link rel = "stylesheet" type = "text/css" href = "style.css">
     </head>
     <body>
-    <h2>Result is : ${result} </h2>
 
-
+    <h2>Welcome here</h2>
+    <p>${a1} </p>
 
     </body>
 </html>
